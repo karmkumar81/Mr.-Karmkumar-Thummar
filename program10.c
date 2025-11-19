@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    printf("Name: Daksh Vegad\n");
-    printf("ID No:25CE137\n");
+    printf("Name: Thummar Karm\n");
+    printf("ID No:25CE124\n");
     int choice,q;
     int total=0;
     printf("-----Welcome to Foodies Restaurent-----\n");
